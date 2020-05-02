@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+}    
+
+.campos input{
+    display: block;
+    border-radius: 20px;
+   margin-bottom: 15px;
+padding: 10px 20px;
+background-color: lightgrey;
+
+
+}
+.botao {
+    display: flex;
+    justify-content: space-around;
+    outline: none;
+}
+.botao button {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    font-size: 18pt;
+    width: 25%;
+    border-radius: 20px;
+
+}
